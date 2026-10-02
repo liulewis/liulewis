@@ -37,7 +37,7 @@
 
 - GitHub：[@liulewis](https://github.com/liulewis)
 - 所在地：Wyoming, United States
-- 邮箱：hello@agricalc.online
+- 邮箱：williamlewis2019@gmail.com
 
 ---
 
