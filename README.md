@@ -19,12 +19,29 @@
 
 ## 🚀 Featured Projects
 
+### 🌐 Websites & Web Apps
+
 | Project | Description | Tech Stack |
 |---|---|---|
 | [Agricalc](https://github.com/liulewis/agricalc) | Free science-based agriculture calculators · [Try it live](https://agricalc.online) | PWA · Multi-language |
 | [Daily-Horoscope](https://github.com/liulewis/Daily-Horoscope) | Daily horoscope web app · [Live demo](https://meiriyunshi.vercel.app) | TypeScript · Next.js · Vercel |
 | [moyuba](https://github.com/liulewis/moyuba) | Lightweight web app · [Live demo](https://moyuba.vercel.app) | TypeScript · Next.js · Vercel |
-| _agri-cloud-kit_ (planned) | Starter template for agriculture mini programs on WeChat Cloud Development | WeChat Cloud Dev · TCB |
+| [Personal Blog](https://github.com/liulewis/liulewis.github.io) | Personal blog · [Visit](https://liulewis.github.io) | Jekyll · GitHub Pages |
+
+### 📱 WeChat Mini Programs (Ag-focused)
+
+| Project | Description |
+|---|---|
+| [machine-share](https://github.com/liulewis/machine-share) | Farm machinery sharing — idle machinery booking, job billing, service reviews |
+| [trace-source](https://github.com/liulewis/trace-source) | Farm produce traceability — one-item-one-code full-chain tracking |
+| [agri-doctor](https://github.com/liulewis/agri-doctor) | Agri clinic — photo disease ID, AI consultation, expert advice |
+| [land-transfer](https://github.com/liulewis/land-transfer) | Farmland operating-right transfer & smart matchmaking |
+| [nongshi-zhushou](https://github.com/liulewis/nongshi-zhushou) | Farming assistant — farming calendar & reminders |
+| [huinong-jizhang](https://github.com/liulewis/huinong-jizhang) | Lightweight farm accounting |
+| [huinong-hangqing](https://github.com/liulewis/huinong-hangqing) | Farm produce price lookup |
+| [village-service](https://github.com/liulewis/village-service) | Village affairs info & errand matchmaking |
+
+_planned: **agri-cloud-kit** — starter template for agriculture mini programs on WeChat Cloud Development_
 
 > Currently focused on: farm machinery sharing & dispatch, crop pest/disease diagnosis, product traceability (one item, one code), farmland transfer matchmaking, and related ag mini-program R&D.
 
